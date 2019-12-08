@@ -2,8 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//KPacaman
-//Daha Gelişmiş Bir Input Sistemi
 public class AdvancedInput : MonoBehaviour
 {
     #region Movement
